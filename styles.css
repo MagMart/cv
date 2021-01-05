@@ -5,7 +5,11 @@ body {
 h1 {
     color: black;
     font-family: 'Lobster', cursive;
-    
+}
+
+image:hover {
+    transform: scale(1.25);
+    background-color: black;
 }
 
 h3 {
