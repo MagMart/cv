@@ -7,7 +7,7 @@ h1 {
     font-family: 'Lobster', cursive;
 }
 
-image:hover {
+.rounded:hover {
     transform: scale(1.25);
     background-color: black;
 }
