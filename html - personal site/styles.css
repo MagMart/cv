@@ -1,0 +1,44 @@
+body {
+    background-color: #8AA8A2;
+}
+
+h1 {
+    color: black;
+    font-family: 'Lobster', cursive;
+    
+}
+
+h3 {
+    color: black;
+    font-family: 'Lobster', cursive;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+table {
+    font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+    border-style: dotted none none none;   
+    border-color: grey; 
+    border-width: 5px;
+    width: 5%;
+}
+
+.image-cropper {
+width: 150px;
+height: 150px;
+position: relative;
+overflow: hidden;
+border-radius: 21%;
+}
+
+img {
+display: inline;
+margin: 0 auto;
+height: 100%;
+width: auto;
+}
